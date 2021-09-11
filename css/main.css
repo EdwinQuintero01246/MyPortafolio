@@ -32,3 +32,9 @@
 .text-content p{
     font-size: 17px !important;
 }
+.modal-lg{
+    width: 90% !important;
+}
+.modal-footer .close{
+    font-size: xx-large;
+}
