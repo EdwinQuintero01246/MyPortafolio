@@ -1,0 +1,34 @@
+.sidebar-navigation .logo span{
+    color: white;
+    font-size: xx-large;
+    padding: 0px 15px;
+    border: 1px solid;
+}
+.sidebar-navigation .logo h3{
+    color: white;
+}
+.rounded-circle {
+    border-radius: 50%!important;
+}
+.developerImg{
+    width: 100%;
+}
+.imgDivCenter{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    float: initial !important;
+}
+#blog .tabgroup ul li img{
+    margin-right: 0px !important;
+}
+.imgModalProyect{
+    width: 100%;
+}
+
+.text-content span{
+    font-size: 20px !important;
+}
+.text-content p{
+    font-size: 17px !important;
+}
