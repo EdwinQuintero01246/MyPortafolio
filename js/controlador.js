@@ -34,6 +34,10 @@ var arreglo = [{
     nombreCarpeta:'bases',
     archivoInicial:'bases',
     indice:8
+},{
+    nombreCarpeta:'spotify',
+    archivoInicial:'Captura de pantalla',
+    indice:16
 }]
 
 var lenguajes =[{
