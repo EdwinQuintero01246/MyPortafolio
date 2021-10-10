@@ -57,5 +57,5 @@
     font-size: 30px;
 }
 .imagenlenguajes img{
-    height: 69px;
+    height: 69px !important;
 }
