@@ -30,7 +30,7 @@
     font-size: 20px !important;
 }
 .text-content p{
-    font-size: 17px !important;
+    font-size: 25px !important;
 }
 .modal-lg{
     width: 90% !important;
@@ -40,4 +40,22 @@
 }
 #projects .masonry .item{
     font-size: x-large;
+}
+.imagenclick{
+    cursor: pointer;
+}
+#first-tab-group .item .text-content .tittles{
+    font-weight: 700 !important;
+    font-size: 54px;
+}
+#first-tab-group .item .text-content .tittles span{
+    font-weight: 700 !important;
+    font-size: 30px !important;
+}
+#first-tab-group .item .text-content .descriptions{
+    font-weight: 600 !important;
+    font-size: 30px;
+}
+.imagenlenguajes img{
+    height: 69px;
 }
